@@ -1,0 +1,6 @@
+{
+  "name": "RoboSTEM Academy",
+  "description": "RoboSTEM Academy helps children and young learners explore robotics, coding, AI, electronics and STEM through hands-on learning, projects, workshops and competitions in Rajkot, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
